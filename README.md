@@ -68,4 +68,4 @@ Here is the graph presents the file hierarchy of this sample code:
    ```C++
    ai_module_register_save_jpeg_func(Platform_JPEG_Save);
    ```
-      When JPEG was received from AI Module, the API would call the registered JPEG saving function after fill in the passing parameters `jpeg_data`, `jpeg_size` and `od_result`
+      When JPEG was received from AI Module, the API would call the registered JPEG saving function with the given parameters `jpeg_data`, `jpeg_size` and `od_result`.
