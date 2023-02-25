@@ -20,7 +20,19 @@ The OD result contains the following information:
 
 Here is the operation flow chart of manipulating AI Module:
 
-## Sample Code Files Hierarchy
+## Sample Code Files Hierarchy and Usage Description
 Here is the graph presents the file hierarchy of this sample code:
 
 
+1.	**Hardware Layer (interface.h & interface.cpp)**:
+    If your host platform is either on Raspberry Pi or on Arduino, you can define either options below in the header file interface.h
+    * For Raspberry Pi:
+    ```C
+    #define PLATFORM_RASPI
+    ```
+    * For Arduino
+    ```C
+    #define PLATFORM_ARDUINO
+    ```
+    
+    If your host platform differs from both of the platforms above, remove the platform definition in the file interface.h and finish implementing the platform-dependent hardware functions in the source code interface.h and interface.cpp.
