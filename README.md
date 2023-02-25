@@ -2,7 +2,7 @@
 This sample code demonstrates how to communicate with InstAI Compact-Series AI Module in C/C++ on your host.
 
 Currently compatible with Raspberry Pi platform and Arduino framework.
-## Introduction to C-Series AI Module
+## C-Series AI Module
 InstAI C-Series AI Module provides the following object detection(OD) operation modes:
 1. **Idle Mode (IDLE_MODE)**: When AI Module is in idle state, it would not respond to host even when the interested objects were detected
 2. **Object Detection Mode (OD_MODE)**: When any of the interested objects were detected, respond OD results to host
@@ -18,7 +18,7 @@ The OD result contains the following information:
    3. the object's type
    4. the object's confidence level
 
-## Sample Code Files Hierarchy and Usage Description
+## Sample Code File Hierarchy and Description
 Here is the graph presents the file hierarchy of this sample code:
 
 <img src="./readme_pic/sample_code_architecture.svg">
