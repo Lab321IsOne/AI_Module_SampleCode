@@ -39,7 +39,9 @@ Here is the graph presents the file hierarchy of this sample code:
 
 3. **C-Series AI Module Application Layer (main.cpp)**: The source code provides the demonstration of how to communicate with AI Module by API Layer. When user pressed the button, AI Module will be changed to the next mode with the sequence **IDLE_MODE→OD_MODE→S_MOTION_OD_MODE→OD_JPEG_MODE→S_MOTION_OD_JPEG_MODE→IDLE_MODE**.
 
-    Here is the flow chart of AI Module Application Sample Code:
+    Here is the flowchart of AI Module Application Sample Code:
+    
+    <img src="./readme_pic/sample_code_flowchart.svg">
 
     * The pin USER_BUTTON_PIN should be defined on your host and **pull LOW** when the button is not pressed:
     ```C
@@ -71,3 +73,7 @@ Here is the graph presents the file hierarchy of this sample code:
    ai_module_register_save_jpeg_func(Platform_JPEG_Save);
    ```
       When JPEG was received from AI Module, the API would call the registered JPEG saving function with the given parameters `jpeg_data`, `jpeg_size` and `od_result`.
+
+## C-Series AI Module Sample Code Demo Video
+Here is the demo video of operating C-Series AI Module on Arduino framework with host ESP32 (NodeMCU-32S Development Kit)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/UdGCmzfL9Gk/0.jpg)](http://www.youtube.com/watch?v=UdGCmzfL9Gk)
