@@ -21,6 +21,8 @@ The OD result contains the following information:
 ## Sample Code Files Hierarchy and Usage Description
 Here is the graph presents the file hierarchy of this sample code:
 
+<img src="./readme_pic/sample_code_architecture.svg">
+
 1.	**Hardware Layer (interface.h & interface.cpp)**:
     If your host platform is either on Raspberry Pi or on Arduino, you can define either options below in the header file interface.h
     * For Raspberry Pi:
