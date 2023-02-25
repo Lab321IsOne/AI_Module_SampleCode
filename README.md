@@ -76,4 +76,5 @@ Here is the graph presents the file hierarchy of this sample code:
 
 ## C-Series AI Module Sample Code Demo Video
 Here is the demo video of operating C-Series AI Module on Arduino framework with host ESP32 (NodeMCU-32S Development Kit)
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/UdGCmzfL9Gk/0.jpg)](http://www.youtube.com/watch?v=UdGCmzfL9Gk)
