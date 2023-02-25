@@ -1,7 +1,7 @@
 # InstAI C-Series AI Module Sample Code
-This sample code demonstrates how to communicate with C-Series AI Module in C/C++ on your host.
+This sample code demonstrates how to communicate with InstAI Compact-Series AI Module in C/C++ on your host.
 
-And currently it's compatible with Raspberry Pi platform and Arduino framework.
+Currently compatible with Raspberry Pi platform and Arduino framework.
 ## Introduction to C-Series AI Module
 InstAI C-Series AI Module provides the following object detection(OD) operation modes:
 1. **Idle Mode (IDLE_MODE)**: When AI Module is in idle state, it would not respond to host even when the interested objects were detected
@@ -18,11 +18,8 @@ The OD result contains the following information:
    3. the object's type
    4. the object's confidence level
 
-Here is the operation flow chart of manipulating AI Module:
-
 ## Sample Code Files Hierarchy and Usage Description
 Here is the graph presents the file hierarchy of this sample code:
-
 
 1.	**Hardware Layer (interface.h & interface.cpp)**:
     If your host platform is either on Raspberry Pi or on Arduino, you can define either options below in the header file interface.h
@@ -34,5 +31,41 @@ Here is the graph presents the file hierarchy of this sample code:
     ```C
     #define PLATFORM_ARDUINO
     ```
+    * For other platforms, remove the above platform definition in the file interface.h and finish implementing the platform-dependent hardware functions in the source code interface.h and interface.cpp.
+
+2. **C-Series AI Module API Layer (ai_module.h & ai_module.cpp)**: After finished implementing the platform-dependent APIs, ai_module.h & ai_module.cpp have the ability to access AI Module by digital pins of Host, so that user program on User Application Layer (main.cpp) can manipulate AI Module with the APIs provided by this layer.
+
+3. **C-Series AI Module Application Layer (main.cpp)**: The source code provides the demonstration of how to communicate with AI Module by API Layer. When user pressed the button, AI Module will be changed to the next mode with the sequence **IDLE_MODE→OD_MODE→S_MOTION_OD_MODE→OD_JPEG_MODE→S_MOTION_OD_JPEG_MODE→IDLE_MODE**.
+
+    Here is the flow chart of AI Module Application Sample Code:
+
+    * The pin USER_BUTTON_PIN should be defined on your host and **pull LOW** when the button is not pressed:
+    ```C
+    #define USER_BUTTON_PIN 4 // define the user button pin number connected to your host
+    ```
     
-    If your host platform differs from both of the platforms above, remove the platform definition in the file interface.h and finish implementing the platform-dependent hardware functions in the source code interface.h and interface.cpp.
+    * When AI Module is in OD operation mode, the sample code continues calling the function `ai_module_process_event(od_event)` to detect whether any of the interested objects were detected. If any of the interested object are detected, `ai_module_process_event(od_event)` returns `true`, and the passed paramter 'od_event' would carry the detected object(s) information. In the other hand, when no objects were detected, `ai_module_process_event(od_event)` returns `false`, and the passed paramter `od_event` would not be modified. Here is the object detection sample code:
+    ```C++
+    // detect whether there is any OD event triggered
+    struct od_data_struct od_event;
+    bool is_obj_detected = ai_module_process_event(&od_event); // check for register of AI Module
+
+    // read OD information if OD event triggered
+    if(is_obj_detected)
+    {
+      // process the OD results od_event if any interested objects were detected
+    }
+    ```
+    
+    * If the host would like to save JPEG which triggered the OD event in OD_JPEG_MODE or S_MOTION_JPEG_MODE, the file saving function with the same prototype should be implemented on your host:
+   ```C++
+   void Platform_JPEG_Save(uint8_t *jpeg_data, size_t jpeg_size, struct od_data_struct *od_result)
+   {
+      // save JPEG and OD results on the platform
+   }
+   ```
+      And the implemented JPEG saving function must be registered to AI Module API:
+   ```C++
+   ai_module_register_save_jpeg_func(Platform_JPEG_Save);
+   ```
+      When JPEG was received from AI Module, the API would call the registered JPEG saving function after fill in the passing parameters `jpeg_data`, `jpeg_size` and `od_result`
