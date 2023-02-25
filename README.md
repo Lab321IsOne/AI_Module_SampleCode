@@ -75,6 +75,6 @@ Here is the graph presents the file hierarchy of this sample code:
       When JPEG was received from AI Module, the API would call the registered JPEG saving function with the given parameters `jpeg_data`, `jpeg_size` and `od_result`.
 
 ## C-Series AI Module Sample Code Demo Video
-Here is the demo video of operating C-Series AI Module on Arduino framework with host ESP32 (NodeMCU-32S Development Kit)
+Here is the demo video of operating C-Series AI Module with Arduino framework on host ESP32 (NodeMCU-32S Development Kit)
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/UdGCmzfL9Gk/0.jpg)](http://www.youtube.com/watch?v=UdGCmzfL9Gk)
