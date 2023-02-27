@@ -38,7 +38,7 @@ Here is the graph presents the file hierarchy of this sample code:
 2. **C-Series AI Module API Layer (ai_module.h & ai_module.cpp)**: After finished implementing the platform-dependent APIs, ai_module.h & ai_module.cpp have the ability to access AI Module by digital pins of Host, so that user program on User Application Layer (main.cpp) can manipulate AI Module with the APIs provided by this layer.
 
 3. **User Application Layer (main.cpp)**: The source code provides the demonstration of how your host communicates with AI Module by AI Module API Layer. When user pressed the button, AI Module will be changed to the next mode with the sequence **IDLE_MODE→OD_MODE→S_MOTION_OD_MODE→OD_JPEG_MODE→S_MOTION_OD_JPEG_MODE→IDLE_MODE**. <br /> Here is the flowchart of AI Module Application Sample Code: <br /> <img src="./readme_pic/sample_code_flowchart.svg"> <br/>
-    * The pin USER_BUTTON_PIN should be defined on your host and **pull LOW** when the button is not pressed:
+    * The pin USER_BUTTON_PIN should be defined on your host and pull **LOW** when the button is not pressed:
     ```C++
     #define USER_BUTTON_PIN 4 // define the user button pin number connected to your host
     ```
