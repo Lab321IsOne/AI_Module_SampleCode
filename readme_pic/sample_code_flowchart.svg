@@ -2,24 +2,25 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- 由 Microsoft Visio, SVG Export 產生 sample_code_flowchart.svg 頁-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.54519in" height="8.96174in"
-		viewBox="0 0 399.254 645.245" xml:space="preserve" color-interpolation-filters="sRGB" class="st12">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="5.6328in" height="9.30454in"
+		viewBox="0 0 405.562 669.927" xml:space="preserve" color-interpolation-filters="sRGB" class="st13">
 	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
 
 	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
-		.st2 {fill:#000000;font-family:Times New Roman;font-size:0.666664em}
-		.st3 {font-size:1em}
-		.st4 {fill:#0000ff;font-size:1em;font-style:italic}
-		.st5 {font-family:新細明體;font-size:1em}
-		.st6 {marker-end:url(#mrkr5-49);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st7 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
-		.st8 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st9 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
-		.st10 {marker-end:url(#mrkr5-248);stroke:#0000ff;stroke-dasharray:1.8,1.8;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.6}
-		.st11 {fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.19230769230769}
-		.st12 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:#ffffff;stroke:#000000;stroke-dasharray:0,0.5;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.1}
+		.st2 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:#000000;font-family:Times New Roman;font-size:0.666664em}
+		.st4 {font-size:1em}
+		.st5 {fill:#0000ff;font-size:1em;font-style:italic}
+		.st6 {font-family:新細明體;font-size:1em}
+		.st7 {marker-end:url(#mrkr5-51);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st9 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st10 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st11 {marker-end:url(#mrkr5-256);stroke:#0000ff;stroke-dasharray:1.8,1.8;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.6}
+		.st12 {fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1;stroke-width:0.19230769230769}
+		.st13 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
@@ -27,11 +28,11 @@
 		<g id="lend5">
 			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr5-49" class="st7" v:arrowType="5" v:arrowSize="2" v:setback="7.63" refX="-7.63" orient="auto"
+		<marker id="mrkr5-51" class="st8" v:arrowType="5" v:arrowSize="2" v:setback="7.63" refX="-7.63" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend5" transform="scale(-4.36,-4.36) "/>
 		</marker>
-		<marker id="mrkr5-248" class="st11" v:arrowType="5" v:arrowSize="2" v:setback="9.1" refX="-9.1" orient="auto"
+		<marker id="mrkr5-256" class="st12" v:arrowType="5" v:arrowSize="2" v:setback="9.1" refX="-9.1" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
 			<use xlink:href="#lend5" transform="scale(-5.2,-5.2) "/>
 		</marker>
@@ -42,7 +43,14 @@
 				v:shadowOffsetY="-8.50394"/>
 		<v:layer v:name="流程圖" v:index="0"/>
 		<v:layer v:name="連接器" v:index="1"/>
-		<g id="shape373-1" v:mID="373" v:groupContext="shape" v:layerMember="0" transform="translate(119.559,-626.275)">
+		<g id="shape442-1" v:mID="442" v:groupContext="shape" transform="translate(10.6457,-0.05)">
+			<title>矩形.442</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 669.93 L394.87 669.93 L394.87 0.1 L0 0.1 L0 669.93 Z" class="st1"/>
+		</g>
+		<g id="shape373-3" v:mID="373" v:groupContext="shape" v:layerMember="0" transform="translate(119.559,-646.472)">
 			<title>開始/結束.373</title>
 			<desc>Start</desc>
 			<v:custProps>
@@ -68,11 +76,11 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="32.7242" cy="635.82" width="65.45" height="18.8504"/>
-			<path d="M9.43 645.24 L56.02 645.24 A9.4252 9.4252 -180 0 0 56.02 626.39 L9.43 626.39 A9.4252 9.4252 -180 1 0 9.43 645.24
-						 Z" class="st1"/>
-			<text x="25.17" y="638.22" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Start</text>		</g>
-		<g id="shape374-4" v:mID="374" v:groupContext="shape" v:layerMember="0" transform="translate(84.8268,-446.723)">
+			<v:textRect cx="32.7242" cy="660.502" width="65.45" height="18.8504"/>
+			<path d="M9.43 669.93 L56.02 669.93 A9.4252 9.4252 -180 0 0 56.02 651.08 L9.43 651.08 A9.4252 9.4252 -180 1 0 9.43 669.93
+						 Z" class="st2"/>
+			<text x="25.17" y="662.9" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Start</text>		</g>
+		<g id="shape374-6" v:mID="374" v:groupContext="shape" v:layerMember="0" transform="translate(84.8268,-466.921)">
 			<title>程序.374</title>
 			<desc>Initialize AI Module by Calling Function ai_module_init()</desc>
 			<v:custProps>
@@ -98,13 +106,13 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="67.4646" cy="631.072" width="134.93" height="28.3465"/>
-			<rect x="0" y="616.899" width="134.929" height="28.3465" class="st1"/>
-			<text x="16.81" y="628.67" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Initialize AI Module by Calling <tspan
-						x="25.36" dy="1.2em" class="st3">Function </tspan><tspan class="st4" v:langID="1033">ai</tspan><tspan
-						class="st4" v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">module</tspan><tspan class="st4"
-						v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">init</tspan><tspan class="st4" v:langID="1033">()</tspan></text>		</g>
-		<g id="shape375-14" v:mID="375" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-305.215)">
+			<v:textRect cx="67.4646" cy="655.754" width="134.93" height="28.3465"/>
+			<rect x="0" y="641.58" width="134.929" height="28.3465" class="st2"/>
+			<text x="16.81" y="653.35" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Initialize AI Module by Calling <tspan
+						x="25.36" dy="1.2em" class="st4">Function </tspan><tspan class="st5" v:langID="1033">ai</tspan><tspan
+						class="st5" v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">module</tspan><tspan class="st5"
+						v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">init</tspan><tspan class="st5" v:langID="1033">()</tspan></text>		</g>
+		<g id="shape375-16" v:mID="375" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-325.412)">
 			<title>程序.375</title>
 			<desc>Switch to“OD Mode”by Calling Function ai_module_switch_mode()</desc>
 			<v:custProps>
@@ -130,13 +138,13 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="65.374" cy="631.072" width="130.75" height="28.3465"/>
-			<rect x="0" y="616.899" width="130.748" height="28.3465" class="st1"/>
-			<text x="9.26" y="628.76" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Switch to<tspan
-						class="st5">“</tspan>OD Mode<tspan class="st5">”</tspan>by Calling <tspan x="7.71" dy="1.212em" class="st3">Function </tspan><tspan
-						class="st4">ai</tspan><tspan class="st4">_</tspan><tspan class="st4">module</tspan><tspan class="st4">_</tspan><tspan
-						class="st4">switch</tspan><tspan class="st4">_</tspan><tspan class="st4">mode</tspan><tspan class="st4">()</tspan></text>		</g>
-		<g id="shape377-28" v:mID="377" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-188.224)">
+			<v:textRect cx="65.374" cy="655.754" width="130.75" height="28.3465"/>
+			<rect x="0" y="641.58" width="130.748" height="28.3465" class="st2"/>
+			<text x="9.26" y="653.44" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Switch to<tspan
+						class="st6">“</tspan>OD Mode<tspan class="st6">”</tspan>by Calling <tspan x="7.71" dy="1.212em" class="st4">Function </tspan><tspan
+						class="st5">ai</tspan><tspan class="st5">_</tspan><tspan class="st5">module</tspan><tspan class="st5">_</tspan><tspan
+						class="st5">switch</tspan><tspan class="st5">_</tspan><tspan class="st5">mode</tspan><tspan class="st5">()</tspan></text>		</g>
+		<g id="shape377-30" v:mID="377" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-208.422)">
 			<title>程序.377</title>
 			<desc>Display OD Event Results</desc>
 			<v:custProps>
@@ -162,10 +170,10 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="65.374" cy="635.82" width="130.75" height="18.8504"/>
-			<rect x="0" y="626.395" width="130.748" height="18.8504" class="st1"/>
-			<text x="23.04" y="638.22" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Display OD Event Results</text>		</g>
-		<g id="shape378-31" v:mID="378" v:groupContext="shape" v:layerMember="0" transform="translate(53.939,-216.075)">
+			<v:textRect cx="65.374" cy="660.502" width="130.75" height="18.8504"/>
+			<rect x="0" y="651.076" width="130.748" height="18.8504" class="st2"/>
+			<text x="23.04" y="662.9" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Display OD Event Results</text>		</g>
+		<g id="shape378-33" v:mID="378" v:groupContext="shape" v:layerMember="0" transform="translate(53.939,-236.273)">
 			<title>決策.378</title>
 			<desc>Are there any of the Interested Objects Detected? by Calling ...</desc>
 			<v:custProps>
@@ -192,49 +200,49 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.78740157480315):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="98.3169" cy="613.269" width="163.87" height="47.9636"/>
-			<path d="M0 613.27 L98.32 581.29 L196.63 613.27 L98.32 645.24 L0 613.27 Z" class="st1"/>
-			<text x="66.33" y="601.27" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Are there any of the<v:newlineChar/><tspan
-						x="52.34" dy="1.2em" class="st3">Interested Objects Detected</tspan>?<v:newlineChar/><tspan x="66.32"
-						dy="1.2em" class="st3">by Calling Function<v:newlineChar/></tspan><tspan x="54.11" dy="1.2em" class="st4"
-						v:langID="1033">ai</tspan><tspan class="st4" v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">module</tspan><tspan
-						class="st4" v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">process</tspan><tspan class="st4"
-						v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">event</tspan><tspan class="st4">()</tspan></text>		</g>
-		<g id="shape380-44" v:mID="380" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-291.925)">
+			<v:textRect cx="98.3169" cy="637.951" width="163.87" height="47.9636"/>
+			<path d="M0 637.95 L98.32 605.98 L196.63 637.95 L98.32 669.93 L0 637.95 Z" class="st2"/>
+			<text x="66.33" y="625.95" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Are there any of the<v:newlineChar/><tspan
+						x="52.34" dy="1.2em" class="st4">Interested Objects Detected</tspan>?<v:newlineChar/><tspan x="66.32"
+						dy="1.2em" class="st4">by Calling Function<v:newlineChar/></tspan><tspan x="54.11" dy="1.2em" class="st5"
+						v:langID="1033">ai</tspan><tspan class="st5" v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">module</tspan><tspan
+						class="st5" v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">process</tspan><tspan class="st5"
+						v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">event</tspan><tspan class="st5">()</tspan></text>		</g>
+		<g id="shape380-46" v:mID="380" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-312.123)">
 			<title>動態連接器.380</title>
-			<path d="M7.09 647.52 L7.09 651.42" class="st6"/>
+			<path d="M7.09 672.2 L7.09 676.1" class="st7"/>
 		</g>
-		<g id="shape382-50" v:mID="382" v:groupContext="shape" transform="translate(149.862,-171.695)">
+		<g id="shape382-52" v:mID="382" v:groupContext="shape" transform="translate(149.862,-191.893)">
 			<title>工作表.382</title>
-			<ellipse cx="2.39345" cy="642.747" rx="2.39345" ry="2.49751" class="st8"/>
+			<ellipse cx="2.39345" cy="667.429" rx="2.39345" ry="2.49751" class="st9"/>
 		</g>
-		<g id="shape383-52" v:mID="383" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-189.544)">
+		<g id="shape383-54" v:mID="383" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-209.741)">
 			<title>動態連接器.383</title>
-			<path d="M7.09 646.56 L7.09 652.38" class="st6"/>
+			<path d="M7.09 671.25 L7.09 677.06" class="st7"/>
 		</g>
-		<g id="shape384-57" v:mID="384" v:groupContext="shape" transform="translate(149.862,-289.651)">
+		<g id="shape384-59" v:mID="384" v:groupContext="shape" transform="translate(149.862,-309.849)">
 			<title>工作表.384</title>
-			<ellipse cx="2.39345" cy="642.747" rx="2.39345" ry="2.49751" class="st8"/>
+			<ellipse cx="2.39345" cy="667.429" rx="2.39345" ry="2.49751" class="st9"/>
 		</g>
-		<g id="shape385-59" v:mID="385" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-307.017)">
+		<g id="shape385-61" v:mID="385" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-327.215)">
 			<title>動態連接器.385</title>
-			<path d="M7.09 647.05 L7.09 651.89" class="st6"/>
+			<path d="M7.09 671.73 L7.09 676.58" class="st7"/>
 		</g>
-		<g id="shape387-64" v:mID="387" v:groupContext="shape" transform="translate(44.6299,-245.742)">
+		<g id="shape387-66" v:mID="387" v:groupContext="shape" transform="translate(44.6299,-265.94)">
 			<title>工作表.387</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="5.91" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape388-67" v:mID="388" v:groupContext="shape" transform="translate(154.425,-203.222)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="5.91" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape388-69" v:mID="388" v:groupContext="shape" transform="translate(154.425,-223.42)">
 			<title>工作表.388</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="4.58" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape389-70" v:mID="389" v:groupContext="shape" v:layerMember="0" transform="translate(84.7913,-395.978)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="4.58" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape389-72" v:mID="389" v:groupContext="shape" v:layerMember="0" transform="translate(84.7913,-416.176)">
 			<title>決策.389</title>
 			<desc>AI Module Initialized Successfully?</desc>
 			<v:custProps>
@@ -260,11 +268,11 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="67.4646" cy="625.241" width="112.45" height="30.0065"/>
-			<path d="M0 625.24 L67.46 605.24 L134.93 625.24 L67.46 645.24 L0 625.24 Z" class="st1"/>
-			<text x="49.8" y="622.84" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>AI Module<v:newlineChar/><tspan
-						x="28.26" dy="1.2em" class="st3">Initialized Successfully</tspan>?</text>		</g>
-		<g id="shape390-74" v:mID="390" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-345.448)">
+			<v:textRect cx="67.4646" cy="649.922" width="112.45" height="30.0065"/>
+			<path d="M0 649.92 L67.46 629.92 L134.93 649.92 L67.46 669.93 L0 649.92 Z" class="st2"/>
+			<text x="49.8" y="647.52" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>AI Module<v:newlineChar/><tspan
+						x="28.26" dy="1.2em" class="st4">Initialized Successfully</tspan>?</text>		</g>
+		<g id="shape390-76" v:mID="390" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-365.646)">
 			<title>程序.390</title>
 			<desc>Set Trigger Thresholds (0~255) of each Object Type by Calling...</desc>
 			<v:custProps>
@@ -290,15 +298,15 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="65.374" cy="625.402" width="130.75" height="39.685"/>
-			<rect x="0" y="605.56" width="130.748" height="39.685" class="st1"/>
-			<text x="10.33" y="618.2" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Set Trigger Thresholds (0~255) of<v:newlineChar/><tspan
-						x="4.17" dy="1.2em" class="st3">each Object Type by Calling Function </tspan><tspan x="16.27" dy="1.2em"
-						class="st4" v:langID="1033">ai</tspan><tspan class="st4" v:langID="1033">_</tspan><tspan class="st4"
-						v:langID="1033">module</tspan><tspan class="st4" v:langID="1033">_</tspan><tspan class="st4"
-						v:langID="1033">set</tspan><tspan class="st4" v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">od</tspan><tspan
-						class="st4" v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">threshold</tspan><tspan class="st4">()</tspan></text>		</g>
-		<g id="shape391-88" v:mID="391" v:groupContext="shape" v:layerMember="0" transform="translate(119.532,-0.12)">
+			<v:textRect cx="65.374" cy="650.084" width="130.75" height="39.685"/>
+			<rect x="0" y="630.242" width="130.748" height="39.685" class="st2"/>
+			<text x="10.33" y="642.88" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Set Trigger Thresholds (0~255) of<v:newlineChar/><tspan
+						x="4.17" dy="1.2em" class="st4">each Object Type by Calling Function </tspan><tspan x="16.27" dy="1.2em"
+						class="st5" v:langID="1033">ai</tspan><tspan class="st5" v:langID="1033">_</tspan><tspan class="st5"
+						v:langID="1033">module</tspan><tspan class="st5" v:langID="1033">_</tspan><tspan class="st5"
+						v:langID="1033">set</tspan><tspan class="st5" v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">od</tspan><tspan
+						class="st5" v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">threshold</tspan><tspan class="st5">()</tspan></text>		</g>
+		<g id="shape391-90" v:mID="391" v:groupContext="shape" v:layerMember="0" transform="translate(119.532,-3.73504)">
 			<title>開始/結束.391</title>
 			<desc>Terminate</desc>
 			<v:custProps>
@@ -324,45 +332,45 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="32.7242" cy="635.82" width="65.45" height="18.8504"/>
-			<path d="M9.43 645.24 L56.02 645.24 A9.4252 9.4252 -180 0 0 56.02 626.39 L9.43 626.39 A9.4252 9.4252 -180 1 0 9.43 645.24
-						 Z" class="st1"/>
-			<text x="16.29" y="638.22" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Terminate</text>		</g>
-		<g id="shape392-91" v:mID="392" v:groupContext="shape" v:layerMember="1" transform="translate(159.36,-448.442)">
+			<v:textRect cx="32.7242" cy="660.502" width="65.45" height="18.8504"/>
+			<path d="M9.43 669.93 L56.02 669.93 A9.4252 9.4252 -180 0 0 56.02 651.08 L9.43 651.08 A9.4252 9.4252 -180 1 0 9.43 669.93
+						 Z" class="st2"/>
+			<text x="16.29" y="662.9" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Terminate</text>		</g>
+		<g id="shape392-93" v:mID="392" v:groupContext="shape" v:layerMember="1" transform="translate(159.36,-468.639)">
 			<title>動態連接器.392</title>
-			<path d="M-7.07 646.96 L-7.09 651.98" class="st6"/>
+			<path d="M-7.07 671.65 L-7.09 676.66" class="st7"/>
 		</g>
-		<g id="shape393-96" v:mID="393" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-397.642)">
+		<g id="shape393-98" v:mID="393" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-417.84)">
 			<title>動態連接器.393</title>
-			<path d="M7.09 646.91 L7.09 652.03" class="st6"/>
+			<path d="M7.09 671.59 L7.09 676.71" class="st7"/>
 		</g>
-		<g id="shape394-101" v:mID="394" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-346.591)">
+		<g id="shape394-103" v:mID="394" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-366.789)">
 			<title>動態連接器.394</title>
-			<path d="M7.09 646.39 L7.09 652.55" class="st6"/>
+			<path d="M7.09 671.07 L7.09 677.23" class="st7"/>
 		</g>
-		<g id="shape395-106" v:mID="395" v:groupContext="shape" v:layerMember="1" transform="translate(84.7913,-415.983)">
+		<g id="shape395-108" v:mID="395" v:groupContext="shape" v:layerMember="1" transform="translate(84.7913,-436.18)">
 			<title>動態連接器.395</title>
-			<path d="M0 645.24 L-64.79 645.24 L-64.79 1029.46 L67.46 1029.46 L67.46 1036.53" class="st6"/>
+			<path d="M0 669.93 L-64.79 669.93 L-64.79 1069.92 L67.46 1069.92 L67.46 1077.8" class="st7"/>
 		</g>
-		<g id="shape396-111" v:mID="396" v:groupContext="shape" transform="translate(76.4724,-412.907)">
+		<g id="shape396-113" v:mID="396" v:groupContext="shape" transform="translate(76.4724,-433.105)">
 			<title>工作表.396</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="5.91" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape397-114" v:mID="397" v:groupContext="shape" transform="translate(154.425,-381.648)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="5.91" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape397-116" v:mID="397" v:groupContext="shape" transform="translate(154.425,-401.845)">
 			<title>工作表.397</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="4.58" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape410-117" v:mID="410" v:groupContext="shape" v:layerMember="1" transform="translate(145.201,-532.4)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="4.58" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape410-119" v:mID="410" v:groupContext="shape" v:layerMember="1" transform="translate(145.201,-552.598)">
 			<title>動態連接器.410</title>
-			<path d="M7.08 646.86 L7.09 652.08" class="st6"/>
+			<path d="M7.08 671.55 L7.09 676.76" class="st7"/>
 		</g>
-		<g id="shape412-122" v:mID="412" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-124.632)">
+		<g id="shape412-124" v:mID="412" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-144.83)">
 			<title>決策.412</title>
 			<desc>Whether User Pressed the Button?</desc>
 			<v:custProps>
@@ -388,13 +396,13 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="65.374" cy="626.324" width="108.96" height="28.3819"/>
-			<path d="M0 626.32 L65.37 607.4 L130.75 626.32 L65.37 645.24 L0 626.32 Z" class="st1"/>
-			<text x="29.83" y="623.92" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Whether User Pressed<v:newlineChar/><tspan
-						x="46.82" dy="1.2em" class="st3">the Button</tspan>?</text>		</g>
-		<g id="shape413-126" v:mID="413" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-55.3179)">
+			<v:textRect cx="65.374" cy="651.005" width="108.96" height="28.3819"/>
+			<path d="M0 651.01 L65.37 632.08 L130.75 651.01 L65.37 669.93 L0 651.01 Z" class="st2"/>
+			<text x="29.83" y="648.61" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Whether User Pressed<v:newlineChar/><tspan
+						x="46.82" dy="1.2em" class="st4">the Button</tspan>?</text>		</g>
+		<g id="shape413-128" v:mID="413" v:groupContext="shape" v:layerMember="0" transform="translate(86.8819,-57.5933)">
 			<title>程序.413</title>
-			<desc>Switch to the Next Mode: “Idle Mode”or“OD Mode” or “S-Motion ...</desc>
+			<desc>Switch to the Next Mode: “Idle Mode”or“OD Mode” or“S-Motion O...</desc>
 			<v:custProps>
 				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
 						v:langID="1028" v:cal="0"/>
@@ -416,45 +424,47 @@
 				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
 				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
-				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.74803149606299):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(1.0236220472441):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="65.374" cy="615.198" width="130.75" height="60.0945"/>
-			<rect x="0" y="585.15" width="130.748" height="60.0945" class="st1"/>
-			<text x="24.05" y="598.03" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Switch to the Next Mode:<v:newlineChar/><tspan
-						x="13.38" dy="1.234em" class="st5">“</tspan>Idle Mode<tspan class="st5">”</tspan>or<tspan class="st5">“</tspan>OD Mode<tspan
-						class="st5">”<v:newlineChar/></tspan><tspan x="20.6" dy="1.246em" class="st3">or </tspan><tspan class="st5">“</tspan>S-Motion OD Mode<tspan
-						class="st5">”<v:newlineChar/></tspan><tspan x="33.37" dy="1.211em" class="st3">by Calling Function </tspan><tspan
-						x="22.94" dy="1.2em" class="st4">ai</tspan><tspan class="st4">_</tspan><tspan class="st4">module</tspan><tspan
-						class="st4">_</tspan><tspan class="st4">switch</tspan><tspan class="st4">_</tspan><tspan class="st4">mode</tspan><tspan
-						class="st4">()</tspan></text>		</g>
-		<g id="shape415-145" v:mID="415" v:groupContext="shape" v:layerMember="1" transform="translate(217.63,-136.467)">
+			<v:textRect cx="65.374" cy="630.918" width="130.75" height="78.0168"/>
+			<rect x="0" y="591.91" width="130.748" height="78.0168" class="st2"/>
+			<text x="24.05" y="603.78" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Switch to the Next Mode:<v:newlineChar/><tspan
+						x="13.38" dy="1.234em" class="st6">“</tspan>Idle Mode<tspan class="st6">”</tspan>or<tspan class="st6">“</tspan>OD Mode<tspan
+						class="st6">”<v:lf/></tspan><tspan x="21.6" dy="1.246em" class="st4">or</tspan><tspan class="st6">“</tspan>S-Motion OD Mode<tspan
+						class="st6">”<v:lf/></tspan><tspan x="26.82" dy="1.246em" class="st4">or </tspan><tspan class="st6">“</tspan>OD JPEG Mode<tspan
+						class="st6">”<v:lf/></tspan><tspan x="10.48" dy="1.246em" class="st4">or </tspan><tspan class="st6">“</tspan>S-Motion OD JPEG Mode<tspan
+						class="st6">”<v:newlineChar/></tspan><tspan x="33.37" dy="1.212em" class="st4">by Calling Function </tspan><tspan
+						x="22.94" dy="1.2em" class="st5">ai</tspan><tspan class="st5">_</tspan><tspan class="st5">module</tspan><tspan
+						class="st5">_</tspan><tspan class="st5">switch</tspan><tspan class="st5">_</tspan><tspan class="st5">mode</tspan><tspan
+						class="st5">()</tspan></text>		</g>
+		<g id="shape415-153" v:mID="415" v:groupContext="shape" v:layerMember="1" transform="translate(217.63,-156.665)">
 			<title>動態連接器.415</title>
-			<path d="M0 638.16 L47.51 638.16" class="st6"/>
+			<path d="M0 662.84 L47.51 662.84" class="st7"/>
 		</g>
-		<g id="shape416-150" v:mID="416" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-127.109)">
+		<g id="shape416-158" v:mID="416" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-147.307)">
 			<title>動態連接器.416</title>
-			<path d="M7.09 647.72 L7.09 651.22" class="st6"/>
+			<path d="M7.09 672.4 L7.09 675.9" class="st7"/>
 		</g>
-		<g id="shape417-155" v:mID="417" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-174.172)">
+		<g id="shape417-163" v:mID="417" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-194.369)">
 			<title>動態連接器.417</title>
-			<path d="M7.09 647.72 L7.09 651.22" class="st6"/>
+			<path d="M7.09 672.4 L7.09 675.9" class="st7"/>
 		</g>
-		<g id="shape418-160" v:mID="418" v:groupContext="shape" transform="translate(154.538,-111.096)">
+		<g id="shape418-168" v:mID="418" v:groupContext="shape" transform="translate(154.538,-131.294)">
 			<title>工作表.418</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="4.58" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape419-163" v:mID="419" v:groupContext="shape" transform="translate(212.142,-139.443)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="4.58" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape419-171" v:mID="419" v:groupContext="shape" transform="translate(212.142,-159.641)">
 			<title>工作表.419</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="5.91" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape424-166" v:mID="424" v:groupContext="shape" v:layerMember="0" transform="translate(84.8189,-581.351)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="5.91" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape424-174" v:mID="424" v:groupContext="shape" v:layerMember="0" transform="translate(84.8189,-601.548)">
 			<title>程序.424</title>
 			<desc>Initialize Hardware Interface of Host by Calling Function int...</desc>
 			<v:custProps>
@@ -480,12 +490,12 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="67.4646" cy="628.225" width="134.93" height="34.0399"/>
-			<rect x="0" y="611.205" width="134.929" height="34.0399" class="st1"/>
-			<text x="3.38" y="625.82" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Initialize Hardware Interface of Host by <tspan
-						x="15.25" dy="1.2em" class="st3">Calling Function </tspan><tspan class="st4">interface</tspan><tspan
-						class="st4">_</tspan><tspan class="st4">init</tspan><tspan class="st4">()</tspan></text>		</g>
-		<g id="shape425-174" v:mID="425" v:groupContext="shape" v:layerMember="0" transform="translate(84.8189,-530.781)">
+			<v:textRect cx="67.4646" cy="652.907" width="134.93" height="34.0399"/>
+			<rect x="0" y="635.887" width="134.929" height="34.0399" class="st2"/>
+			<text x="3.38" y="650.51" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Initialize Hardware Interface of Host by <tspan
+						x="15.25" dy="1.2em" class="st4">Calling Function </tspan><tspan class="st5">interface</tspan><tspan
+						class="st5">_</tspan><tspan class="st5">init</tspan><tspan class="st5">()</tspan></text>		</g>
+		<g id="shape425-182" v:mID="425" v:groupContext="shape" v:layerMember="0" transform="translate(84.8189,-550.979)">
 			<title>決策.425</title>
 			<desc>Hardware Interface Initialized Successfully?</desc>
 			<v:custProps>
@@ -511,49 +521,49 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="67.4646" cy="625.402" width="112.45" height="29.7638"/>
-			<path d="M0 625.4 L67.46 605.56 L134.93 625.4 L67.46 645.24 L0 625.4 Z" class="st1"/>
-			<text x="36.49" y="623" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Hardware Interface <v:newlineChar/><tspan
-						x="28.26" dy="1.2em" class="st3">Initialized Successfully</tspan>?</text>		</g>
-		<g id="shape426-178" v:mID="426" v:groupContext="shape" v:layerMember="1" transform="translate(145.197,-582.995)">
+			<v:textRect cx="67.4646" cy="650.084" width="112.45" height="29.7638"/>
+			<path d="M0 650.08 L67.46 630.24 L134.93 650.08 L67.46 669.93 L0 650.08 Z" class="st2"/>
+			<text x="36.49" y="647.68" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Hardware Interface <v:newlineChar/><tspan
+						x="28.26" dy="1.2em" class="st4">Initialized Successfully</tspan>?</text>		</g>
+		<g id="shape426-186" v:mID="426" v:groupContext="shape" v:layerMember="1" transform="translate(145.197,-603.193)">
 			<title>動態連接器.426</title>
-			<path d="M7.09 646.89 L7.09 652.05" class="st6"/>
+			<path d="M7.09 671.57 L7.09 676.73" class="st7"/>
 		</g>
-		<g id="shape427-183" v:mID="427" v:groupContext="shape" v:layerMember="1" transform="translate(145.197,-627.919)">
+		<g id="shape427-191" v:mID="427" v:groupContext="shape" v:layerMember="1" transform="translate(145.197,-648.117)">
 			<title>動態連接器.427</title>
-			<path d="M7.09 646.89 L7.09 652.05" class="st6"/>
+			<path d="M7.09 671.57 L7.09 676.73" class="st7"/>
 		</g>
-		<g id="shape428-188" v:mID="428" v:groupContext="shape" v:layerMember="1" transform="translate(146.365,-55.3179)">
+		<g id="shape428-196" v:mID="428" v:groupContext="shape" v:layerMember="1" transform="translate(146.366,-57.5933)">
 			<title>動態連接器.428</title>
-			<path d="M5.89 645.24 L5.89 655.87 L124.5 655.87 L124.5 408.51 L14.01 408.51" class="st6"/>
+			<path d="M5.89 669.93 L5.89 681.27 L124.1 681.27 L124.1 415.16 L14.01 415.16" class="st7"/>
 		</g>
-		<g id="shape430-193" v:mID="430" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-218.661)">
+		<g id="shape430-201" v:mID="430" v:groupContext="shape" v:layerMember="1" transform="translate(145.169,-238.859)">
 			<title>動態連接器.430</title>
-			<path d="M7.09 647.83 L7.09 651.11" class="st6"/>
+			<path d="M7.09 672.51 L7.09 675.79" class="st7"/>
 		</g>
-		<g id="shape432-198" v:mID="432" v:groupContext="shape" v:layerMember="1" transform="translate(53.939,-248.051)">
+		<g id="shape432-206" v:mID="432" v:groupContext="shape" v:layerMember="1" transform="translate(53.939,-268.248)">
 			<title>動態連接器.432</title>
-			<path d="M0 645.24 L-16.4 645.24 L-16.4 719.08 L90.2 719.08" class="st6"/>
+			<path d="M0 669.93 L-16.4 669.93 L-16.4 743.77 L90.2 743.77" class="st7"/>
 		</g>
-		<g id="shape433-203" v:mID="433" v:groupContext="shape" v:layerMember="1" transform="translate(84.8189,-550.624)">
+		<g id="shape433-211" v:mID="433" v:groupContext="shape" v:layerMember="1" transform="translate(84.8189,-570.822)">
 			<title>動態連接器.433</title>
-			<path d="M0 645.24 L-64.82 645.24 L-64.82 774.16" class="st6"/>
+			<path d="M0 669.93 L-64.82 669.93 L-64.82 798.85" class="st7"/>
 		</g>
-		<g id="shape434-208" v:mID="434" v:groupContext="shape" transform="translate(76.0787,-546.293)">
+		<g id="shape434-216" v:mID="434" v:groupContext="shape" transform="translate(76.0787,-566.491)">
 			<title>工作表.434</title>
 			<desc>No</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="5.91" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
-		<g id="shape435-211" v:mID="435" v:groupContext="shape" transform="translate(157.48,-515.033)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="5.91" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>No</text>		</g>
+		<g id="shape435-219" v:mID="435" v:groupContext="shape" transform="translate(157.48,-535.231)">
 			<title>工作表.435</title>
 			<desc>Yes</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="10.8031" cy="635.245" width="21.61" height="20"/>
-			<rect x="0" y="625.245" width="21.6063" height="20" class="st9"/>
-			<text x="4.58" y="637.64" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
-		<g id="shape436-214" v:mID="436" v:groupContext="shape" v:layerMember="0" transform="translate(84.8268,-485.806)">
+			<v:textRect cx="10.8031" cy="659.927" width="21.61" height="20"/>
+			<rect x="0" y="649.927" width="21.6063" height="20" class="st10"/>
+			<text x="4.58" y="662.33" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Yes</text>		</g>
+		<g id="shape436-222" v:mID="436" v:groupContext="shape" v:layerMember="0" transform="translate(84.8268,-506.004)">
 			<title>程序.436</title>
 			<desc>Register JPEG Saving Function to AI Module API ai_module_regi...</desc>
 			<v:custProps>
@@ -579,16 +589,16 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="67.4646" cy="628.225" width="134.93" height="34.0399"/>
-			<rect x="0" y="611.205" width="134.929" height="34.0399" class="st1"/>
-			<text x="12.58" y="621.02" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Register JPEG Saving Function to<v:newlineChar/><tspan
-						x="42.35" dy="1.2em" class="st3">AI Module API </tspan><tspan x="6.59" dy="1.2em" class="st4"
-						v:langID="1033">ai</tspan><tspan class="st4" v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">module</tspan><tspan
-						class="st4" v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">register</tspan><tspan class="st4"
-						v:langID="1033">_</tspan><tspan class="st4" v:langID="1033">save</tspan><tspan class="st4" v:langID="1033">_</tspan><tspan
-						class="st4" v:langID="1033">jpeg</tspan><tspan class="st4" v:langID="1033">_</tspan><tspan class="st4"
-						v:langID="1033">func</tspan><tspan class="st4" v:langID="1033">()</tspan></text>		</g>
-		<g id="shape437-230" v:mID="437" v:groupContext="shape" v:layerMember="0" transform="translate(278.661,-199.962)">
+			<v:textRect cx="67.4646" cy="652.907" width="134.93" height="34.0399"/>
+			<rect x="0" y="635.887" width="134.929" height="34.0399" class="st2"/>
+			<text x="12.58" y="645.71" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Register JPEG Saving Function to<v:newlineChar/><tspan
+						x="42.35" dy="1.2em" class="st4">AI Module API </tspan><tspan x="6.59" dy="1.2em" class="st5"
+						v:langID="1033">ai</tspan><tspan class="st5" v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">module</tspan><tspan
+						class="st5" v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">register</tspan><tspan class="st5"
+						v:langID="1033">_</tspan><tspan class="st5" v:langID="1033">save</tspan><tspan class="st5" v:langID="1033">_</tspan><tspan
+						class="st5" v:langID="1033">jpeg</tspan><tspan class="st5" v:langID="1033">_</tspan><tspan class="st5"
+						v:langID="1033">func</tspan><tspan class="st5" v:langID="1033">()</tspan></text>		</g>
+		<g id="shape437-238" v:mID="437" v:groupContext="shape" v:layerMember="0" transform="translate(278.661,-220.16)">
 			<title>開始/結束.437</title>
 			<desc>Received JPEG from AI Module</desc>
 			<v:custProps>
@@ -614,11 +624,11 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="60.2362" cy="635.82" width="120.48" height="18.8504"/>
-			<path d="M9.43 645.24 L111.05 645.24 A9.4252 9.4252 -180 0 0 111.05 626.39 L9.43 626.39 A9.4252 9.4252 -180 1 0 9.43
-						 645.24 Z" class="st1"/>
-			<text x="7.8" y="638.22" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Received JPEG from AI Module</text>		</g>
-		<g id="shape438-233" v:mID="438" v:groupContext="shape" v:layerMember="0" transform="translate(281.23,-151.207)">
+			<v:textRect cx="60.2362" cy="660.502" width="120.48" height="18.8504"/>
+			<path d="M9.43 669.93 L111.05 669.93 A9.4252 9.4252 -180 0 0 111.05 651.08 L9.43 651.08 A9.4252 9.4252 -180 1 0 9.43
+						 669.93 Z" class="st2"/>
+			<text x="7.8" y="662.9" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Received JPEG from AI Module</text>		</g>
+		<g id="shape438-241" v:mID="438" v:groupContext="shape" v:layerMember="0" transform="translate(281.23,-171.404)">
 			<title>程序.438</title>
 			<desc>Call the Registered JPEG Saving Function to Save JPEG and OD ...</desc>
 			<v:custProps>
@@ -644,21 +654,21 @@
 				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.59055118110236):24"/>
 			</v:userDefs>
 			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
-			<v:textRect cx="57.6673" cy="626.324" width="115.34" height="37.8425"/>
-			<rect x="0" y="607.402" width="115.335" height="37.8425" class="st1"/>
-			<text x="4.78" y="619.12" class="st2" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Call the Registered JPEG Saving <tspan
-						x="6.89" dy="1.2em" class="st3">Function to Save JPEG and OD </tspan><tspan x="7.23" dy="1.2em" class="st3">Event Results on your Platform</tspan></text>		</g>
-		<g id="shape439-238" v:mID="439" v:groupContext="shape" v:layerMember="1" transform="translate(145.205,-487.525)">
+			<v:textRect cx="57.6673" cy="651.005" width="115.34" height="37.8425"/>
+			<rect x="0" y="632.084" width="115.335" height="37.8425" class="st2"/>
+			<text x="4.78" y="643.81" class="st3" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Call the Registered JPEG Saving <tspan
+						x="6.89" dy="1.2em" class="st4">Function to Save JPEG and OD </tspan><tspan x="7.23" dy="1.2em" class="st4">Event Results on your Platform</tspan></text>		</g>
+		<g id="shape439-246" v:mID="439" v:groupContext="shape" v:layerMember="1" transform="translate(145.205,-507.722)">
 			<title>動態連接器.439</title>
-			<path d="M7.09 646.96 L7.09 651.98" class="st6"/>
+			<path d="M7.09 671.65 L7.09 676.66" class="st7"/>
 		</g>
-		<g id="shape440-243" v:mID="440" v:groupContext="shape" v:layerMember="1" transform="translate(199.223,-233.905)">
+		<g id="shape440-251" v:mID="440" v:groupContext="shape" v:layerMember="1" transform="translate(199.223,-254.103)">
 			<title>動態連接器.440</title>
-			<path d="M0 645.24 L69.28 645.24 A2.3622 2.3622 0 0 1 74.01 645.24 L139.67 645.24 L139.67 654.88" class="st10"/>
+			<path d="M0 669.93 L68.88 669.93 A2.3622 2.3622 0 1 1 73.6 669.93 L139.67 669.93 L139.67 679.56" class="st11"/>
 		</g>
-		<g id="shape441-249" v:mID="441" v:groupContext="shape" v:layerMember="1" transform="translate(331.811,-201.592)">
+		<g id="shape441-257" v:mID="441" v:groupContext="shape" v:layerMember="1" transform="translate(331.811,-221.79)">
 			<title>動態連接器.441</title>
-			<path d="M7.09 646.88 L7.09 652.07" class="st6"/>
+			<path d="M7.09 671.56 L7.09 676.75" class="st7"/>
 		</g>
 	</g>
 </svg>
