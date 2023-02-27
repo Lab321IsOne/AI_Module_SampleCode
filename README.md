@@ -6,9 +6,13 @@ Currently compatible with Raspberry Pi platform and Arduino framework.
 InstAI C-Series AI Module provides the following object detection(OD) operation modes:
 1. **Idle Mode (IDLE_MODE)**: When AI Module is in idle state, it would not provide any information to Host even when the interested objects were detected.
 2. **Object Detection Mode (OD_MODE)**: When any of the interested objects were detected, interrupt event occurred, which means the OD result is ready to be retrieved from Host.
+<img src="./readme_pic/op_od_mode.svg">
 3. **Sensor Motion Object Detection Mode (S_MOTION_OD_MODE)**: Switch to sensor motion detection state upon entering this mode. When sensor detects the difference between captured images, NPU would be powered up, started to inference the latest image and provide the OD results. When NPU has not detected any of the interested objects for more than 5 seconds, AI Module switches back to sensor motion detection state to save power consumption.
+<img src="./readme_pic/op_smotion_od_mode.svg">
 4. **Object Detection JPEG Mode (OD_JPEG_MODE)**: When any of the interested objects were detected, AI module would not only provide OD results, but JPEG image which triggered the OD event.
+<img src="./readme_pic/op_od_jpeg_mode.svg">
 5. **Sensor Motion Object Detection JPEG Mode (S_MOTION_OD_JPEG_MODE)**: This mode is the combination of S_MOTION_OD_MODE and OD_JPEG_MODE. When there is no motion detected by sensor, AI Module powers down NPU. Otherwise, AI Module powers up NPU and started inferencing the captured images. If any of the insterested objects were detected, the OD results and the JPEG image which triggered OD event could be provided to Host.
+<img src="./readme_pic/op_smotion_od_jpeg_mode.svg">
 
 The OD result contains the following information:
 1. Total object number detected in the latest frame.
